@@ -1,0 +1,19 @@
+{
+  "sessions": [
+    {
+      "id": 1,
+      "name": "Backup EC2 Daily",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "Stop EC2 On Weekend",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "name": "Terminate EC2 after 30 days",
+      "status": "scheduled"
+    }
+  ]
+}
